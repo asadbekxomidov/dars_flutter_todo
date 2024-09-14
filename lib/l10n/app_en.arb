@@ -1,0 +1,10 @@
+{
+    "home": "Home",
+    "settings": "Settings",
+    "todo": "Todo",
+    "note": "Note",
+    "course": "Course",
+    "lesson" : "Lesson",
+    "quiz" : "Quiz",
+    "login" : "Login"
+}
